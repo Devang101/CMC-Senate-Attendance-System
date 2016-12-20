@@ -1,5 +1,5 @@
 # CMC-Senate-Attendance-System
-My friend and I took on a projected where we were tasked with writing code for an attendance system for our school's student government, specifically the student senate. Our program is used to keep track of student attendance and senatorship to senate meetings. If a student is a senator they can vote on school related issues.  Senators lose their senatorship if they miss three meetings in a row, and non-senators become senators if they attend three meetings in a row.
+My friend and I took on a project where we were tasked with writing code for an attendance system for our school's student government, specifically the student senate. Our program is used to keep track of student attendance and senatorship to senate meetings. If a student is a senator they can vote on school related issues.  Senators lose their senatorship if they miss three meetings in a row, and non-senators become senators if they attend three meetings in a row.
 
 A magnetic card reader was used to obtain the id of Claremont College students. If the student is already in the database their attendance will be recorded and their senator status updated if necessary. If the student is not in the database and has a vaild id number, he/she is prompted to enter their first and last name into the system, and is then added to the database.
 
